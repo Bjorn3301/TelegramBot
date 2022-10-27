@@ -1,1 +1,1 @@
-Hello, Hexlet!
+Telegram CryptoBot
